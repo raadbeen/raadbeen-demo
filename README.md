@@ -1,4 +1,4 @@
 # raadbeen-demo
-Author: Radhika Dhami. 
+Author: Radha. 
 <br/>
 This is my first git Repository.
